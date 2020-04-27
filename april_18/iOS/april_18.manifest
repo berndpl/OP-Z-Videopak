@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+CRC: 3004594054
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c88c5a43e7c34b3b0168a9a31f04e52
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc01480793e5d1f55ab6878363af6eef
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a4497c057d3c484d9964ddcf23f3d21, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d4db31128ed7a9b43af34060f62d4446, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44e5da7555040604f9438130103bdee6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2a647f6ec529dd4ca5250ab558ad64a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b4aca5806d89554ea1754d3f877fd59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3224c2e84c1ec467b9cf2927b50e9f09, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e40b112a8fb6b3b409d27ebac7cd6f11, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 70c2b5eca39344282ba410dd04fd722f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8ec8a51db04584a1485c2471b8fffbd3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f12cb6e816d52340928f63f1b02f1b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61d57c6f568622f43a23bc942159a1e0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+Assets:
+- Assets/April_18.unity
+Dependencies: []

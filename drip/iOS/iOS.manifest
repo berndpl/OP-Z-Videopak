@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2354647498
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: drip
+      Dependencies: {}
